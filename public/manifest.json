@@ -1,0 +1,17 @@
+{
+    "name":"Mvuki Weather App",
+    "short_name":"WeatherApp",
+    "start_url":"/",
+    "background_color":"#FFFFFF",
+    "theme_color":"#C0C0C0",
+    "orientation":"portrait-primary",
+    "display":"standalone",
+    "dir":"ltr",
+    "lang":"en-US",
+    "Description":" Weather Project for Andela, testing my skills",
+    "serviceworker":{
+        "src":"sw_cached_pages.js",
+        "scope":"/"
+    }
+    
+}

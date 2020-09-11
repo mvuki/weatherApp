@@ -1,0 +1,13 @@
+{
+    "theme_color": "#7ed321",
+    "background_color": "#a0bdf6",
+    "display": "fullscreen",
+    "scope": "/Test application",
+    "start_url": "/",
+    "app_name": "Weather App",
+    "short_name": "Weather App",
+    "description": " wheather forecast",
+    "icons": {
+        "name": "P1060633.JPG"
+    }
+}
